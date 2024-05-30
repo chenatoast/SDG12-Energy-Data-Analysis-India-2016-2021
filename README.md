@@ -40,16 +40,11 @@ raw food items like grains, cereals etc.
 
 # Objective Statements
  
-Objective 1: To Analyse the State-Wise Energy Consumption and Production in different states of India.
-1.1 To check if the population’s demand for mean energy units from 2016 
-to 2021.
-1.2 To study the effect of energy units demand on the production of energy 
-units in India.  
-1.3 To predict the consumption of energy units in next five years based on 
-current trend in energy consumption. 
-1.4 To evaluate the significance of variance in the production of power 
-units from the year 2016-17 to 2020-21 for 36 states and union territories 
-of India. 
+Objective 1: To Analyse the State-Wise Energy Consumption and Production in different states of India. 
+1.1 To check if the population’s demand for mean energy units from 2016 to 2021. 
+1.2 To study the effect of energy units demand on the production of energy units in India. 
+1.3 To predict the consumption of energy units in next five years based on current trend in energy consumption. 
+1.4 To evaluate the significance of variance in the production of power units from the year 2016-17 to 2020-21 for 36 states and union territories of India. 
  
 Objective 2: To Analyse the Consumption and Production of Medical Facilities in different states of India. 
 2.1 To designate different states based on the no. of beds provided in the 
