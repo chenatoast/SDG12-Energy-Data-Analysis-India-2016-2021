@@ -41,37 +41,12 @@ raw food items like grains, cereals etc.
 # Objective Statements
  
 Objective 1: To Analyse the State-Wise Energy Consumption and Production in different states of India. 
-1.1 To check if the population’s demand for mean energy units from 2016 to 2021. 
-1.2 To study the effect of energy units demand on the production of energy units in India. 
-1.3 To predict the consumption of energy units in next five years based on current trend in energy consumption. 
-1.4 To evaluate the significance of variance in the production of power units from the year 2016-17 to 2020-21 for 36 states and union territories of India. 
  
 Objective 2: To Analyse the Consumption and Production of Medical Facilities in different states of India. 
-2.1 To designate different states based on the no. of beds provided in the 
-year 2019. 
-2.2 To check if the number of mean medical beds provided in the hospitals 
-has significantly increased from 2019 to 2020.  
-2.3 To study the dependence of population on number of beds. 
  
 Objective 3: To Analyse the Production and Consumption of Food Grains in different states of India.
-3.1 To check if the production of rice and pulses has significantly increased 
-from 2018-19 to 2019-20.  
-3.2 To study the effect on production of rice and pluses in 2019-20 with 
-respect to the population of same year.
-3.3 To designate different states with respect to sum of production of food 
-grains (rice and pulses) in year 2018-2019 and 2019-2020. 
-3.4 To analyse the sum of consumption of rice and pulse in 2019-2020. 
  
 Objective 4: To Analyse the Generation, Collection and hence the treatment of solid waste produced in different states.
-4.1 To designate different states in India based on total waste generated 
-from year 2016-17 to 2017-18.
-4.2 To check if there is a significant difference between the means of waste 
-collected and treated in the years 2016-17 to 2017-18. 
-4.3 To study the relation between the waste generated and collected in India 
-in the years 2016-2020. 
-4.4 To predict the generation of solid waste in the next five years on the 
-basis of current trend. 
-
 
 # CONCLUSION 
  
