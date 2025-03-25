@@ -41,7 +41,9 @@ management and efficient use of natural resources, halving the global food waste
 changing the way we consume and other resources like medical facilities and the 
 raw food items like grains, cereals etc. 
 <p align="center">
+ 
  ![image](https://github.com/user-attachments/assets/abd20223-e440-41a4-972b-63546ea16a1f)
+ 
  ![image](https://github.com/user-attachments/assets/99f0d9ed-d78a-4d6e-b33f-d86324423d98)
 </p>
 
