@@ -1,7 +1,7 @@
 #           SDG12-Resources-Data-Analysis-India-2016-2021
 ![image](https://github.com/user-attachments/assets/575c0411-cc2b-4688-92b9-ea04f533ebf8)
 
-<p style="text-align: justify;">
+<div style="text-align: justify;">
 
 Sustainable Development Goal 12 - Responsible Consumption and Production, a topic so chosen to perform analysis on energy, power units, food grains,  covid-19 resources and waste generation across Indian states.
 
@@ -43,17 +43,17 @@ management and efficient use of natural resources, halving the global food waste
 changing the way we consume and other resources like medical facilities and the 
 raw food items like grains, cereals etc. 
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
  
  ![image](https://github.com/user-attachments/assets/abd20223-e440-41a4-972b-63546ea16a1f)
  
  ![image](https://github.com/user-attachments/assets/99f0d9ed-d78a-4d6e-b33f-d86324423d98)
  
-</p>
+</div>
 
-<p style="text-align: justify;">
+<div style="text-align: justify;">
 
 
 # Objective Statements
@@ -91,4 +91,4 @@ proper check of the production of resources. We shall try to limit our consumpti
 and wisely produce these resources-consuming entities. 
 
 
-</p>
+</div>
